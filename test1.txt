@@ -1,10 +1,1 @@
- Volume in drive C is System
- Volume Serial Number is F4D2-4FBD
-
- Directory of C:\Users\prmote\Desktop\MyProject
-
-11-03-2020  19:36    <DIR>          .
-11-03-2020  19:36    <DIR>          ..
-11-03-2020  19:36                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  422,618,791,936 bytes free
+change 1
